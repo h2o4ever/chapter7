@@ -1,12 +1,12 @@
 [
 	{
-	 "module" : "dirlister"
+	 "module" : "ipconfig"
 	},
 	{
 	 "module" : "environment"
 	},
         {
-         "module" : "configIP"
+         "module" : "dirlister"
         }
 ]
 
